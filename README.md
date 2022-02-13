@@ -1,2 +1,2 @@
-# Final_Cut_Pro
-All tips and tricks for Final Cut Pro
+# All about video making
+All tips and tricks for video making
